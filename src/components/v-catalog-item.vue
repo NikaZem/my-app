@@ -1,0 +1,21 @@
+<template>
+  <div class="v-catalog-item">
+    <p>item 1</p>
+    <p>price: 100</p>
+    <button>Add to cart</button>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'v-catalog-item',
+  props: {},
+  data () {
+    return {}
+  }
+}
+</script>
+
+<style>
+
+</style>
