@@ -28,7 +28,7 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss">
 .v-main-wrapper{
     display: flex;
     justify-content: center;

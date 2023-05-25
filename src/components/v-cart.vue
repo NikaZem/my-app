@@ -1,12 +1,12 @@
 <template>
-  <div class="v-card">
+  <div class="v-cart">
     <h2>Its cart</h2>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'v-card',
+  name: 'v-cart',
   props: {},
   data () {
     return {}
@@ -14,6 +14,6 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss">
 
 </style>
