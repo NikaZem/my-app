@@ -13,7 +13,7 @@
         {{cart_item_data.quantity}}
       </span>
     </div>
-    <button @click="deleteFromCart">Delete</button>
+    <button class="btn" @click="deleteFromCart">Delete</button>
   </div>
 </template>
 
